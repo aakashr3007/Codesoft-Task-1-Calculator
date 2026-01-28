@@ -4,14 +4,14 @@ A simple and interactive Basic Calculator web application developed using HTML, 
 
 🚀 Features
 
--Perform basic math operations (+, −, ×, ÷)
--Clear and delete input options
--Responsive and clean UI design
--CSS Grid for button alignment
--Error handling for invalid inputs
+- Perform basic math operations (+, −, ×, ÷)
+- Clear and delete input options
+- Responsive and clean UI design
+- CSS Grid for button alignment
+- Error handling for invalid inputs
 
 🛠 Technologies Used
 
--HTML
--CSS (Grid Layout)
--JavaScript
+- HTML
+- CSS (Grid Layout)
+- JavaScript
